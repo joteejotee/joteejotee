@@ -3,7 +3,9 @@
 I am Jota Harada.
 
 Portfolio
+
 order-management : Next.js + Laravel
+
 issue-management : java + Spring Boot
 
 ## Languages and Frameworks
