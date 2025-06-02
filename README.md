@@ -2,7 +2,7 @@
 
 I am Jota Harada.
 
-### Portfolio
+<h3 style="margin-bottom:0;">Portfolio</h3>
 order-management : Next.js + Laravel<br />
 issue-management : java + Spring Boot
 
