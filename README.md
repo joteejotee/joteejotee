@@ -10,9 +10,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=joteejotee&show_icons=true&locale=en&layout=compact)
 
-## Programming Languages
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,php,java,react,nextjs,laravel,spring" /> <br /><br />
 
 ## Frameworks and Library
 
