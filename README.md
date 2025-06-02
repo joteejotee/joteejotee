@@ -10,14 +10,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=joteejotee&show_icons=true&locale=en&layout=compact)
 
-## Tech Stack
+## Languages and Frameworks
 
 <img src="https://skillicons.dev/icons?i=js,typescript,php,java,react,nextjs,laravel,spring" /> <br /><br />
 
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
-
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,idea,linux,aws,vercel,figma,nginx,obsidian" /> <br /><br />
