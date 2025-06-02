@@ -12,7 +12,7 @@
 
 ## Languages and Frameworks
 
-<img src="https://skillicons.dev/icons?i=js,typescript,php,java,react,nextjs,laravel,spring" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,php,java,react,nextjs,nodejs,laravel,spring" /> <br /><br />
 
 ## DB and Dev Tools etc
 
