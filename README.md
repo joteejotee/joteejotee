@@ -2,6 +2,10 @@
 
 I am Jota Harada.
 
+Portfolio
+order-management : Next.js + Laravel
+issue-management : java + Spring Boot
+
 ## Languages and Frameworks
 
 <img src="https://skillicons.dev/icons?i=js,typescript,php,java,react,nextjs,nodejs,laravel,spring" /> <br /><br />
