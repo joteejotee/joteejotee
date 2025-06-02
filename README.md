@@ -13,5 +13,6 @@ I am Jota Harada.
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joteejotee&show_icons=true&theme=default)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=joteejotee&show_icons=true&locale=en&layout=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=joteejotee&show_icons=true&locale=en)
+
 
